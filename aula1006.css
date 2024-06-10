@@ -1,5 +1,6 @@
 body{
 background-color: linear-gradient( to right, #C0C0C0, #A9A9A9, #808080, #696969 ); }
+
 }
 main{
   display: flex;
