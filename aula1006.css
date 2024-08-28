@@ -19,11 +19,11 @@ nav{
   justify-content: space around;
 }
 #APS{
-  items-align: center;
+  align-items: center;
 }
 #DG{
-  items-align: center;
+  align-items: center;
 }
 #PWD{
-  items-align: center;
+  align-items: center;
 }
