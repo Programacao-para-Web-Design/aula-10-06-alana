@@ -4,6 +4,7 @@ main{
 header{
   text-align: center;
   font-size: 18pt;
+  background-color: orange;
 }
 nav{
   box-shadow: 20px 20px 10px;
