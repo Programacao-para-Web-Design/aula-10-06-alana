@@ -1,7 +1,3 @@
-body{
-background-color: linear-gradient( to right, #C0C0C0, #A9A9A9, #808080, #696969 ); }
-
-}
 main{
   display: flex;
 }
@@ -21,15 +17,19 @@ nav{
 #APS{
   align-items: center;
   text-align: center;
+  background-color: blue;
 }
 #DG{
   align-items: center;
   text-align: center;
+  background-color: purple;
 }
 #PWD{
   align-items: center;
   text-align: center;
+  backgroun-color: green;
 }
 footer{
   text-align: center;
+  background-color: pink;
 }
